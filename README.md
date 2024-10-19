@@ -33,3 +33,18 @@ python train_cifar.py --dataset=cifar10 --data_dir=./dataset/cifar10/ --log_dir=
 ```
 
 9. If you want to train the model from the beginning empty the weights folder and use the command in 8
+
+
+
+## References
+This Repository is reference to https://github.com/qinenergy/adanet.git
+
+## Citation
+```
+@article{wang2019semi,
+  title={Semi-Supervised Learning by Augmented Distribution Alignment},
+  author={Wang, Qin and Li, Wen and Van Gool, Luc},
+  journal={arXiv preprint arXiv:1905.08171},
+  year={2019}
+}
+```
