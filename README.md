@@ -18,7 +18,7 @@ python cifar10.py --data_dir=./dataset/cifar10/ --dataset_seed=2
 python cifar10.py --data_dir=./dataset/cifar10/ --dataset_seed=3
 
 ```
-6. Download the model weights from this link and save the weights folder in the root of the repo
+6. Download the model weights from this link and save the weights folder(rename it to weights) in the root of the repo. The Weights folder should have all the weights without any subdirectory
 ```
 https://drive.google.com/drive/folders/1_t7NexT8EAMwEFTew--T6UfBiJhC0_3c?usp=sharing
 ```
