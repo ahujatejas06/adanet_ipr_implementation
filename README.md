@@ -9,7 +9,7 @@ chmod +x setup_environment.sh
 ```
 4. Setup the environment on your machine, this will install the requirements needed and setup and activate the conda environment
 ``` bash
-bash setup_environment.sh
+source setup_environment.sh
 ```
 5. Use this Command to download the dataset
 ```bash
